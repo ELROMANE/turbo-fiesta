@@ -1,0 +1,42 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment and API keys
+.env
+.env.*
+*.env
+api_key*
+.api_keys
+secrets.*
+credentials.*
+
+# Generated data and models
+data/training/
+data/training/sample/
+*.tfrecord
+models/
+
+# Build and temp files
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Font files (add locally)
+fonts/math_font.ttf
+fonts/stix_raw/
+fonts/*.zip
+
+# Distribution
+*.egg-info/
+dist/
+build/
+*.pyc

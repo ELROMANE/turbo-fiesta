@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cerebras Chat Demo
 
 A simple chatbot with text-to-speech support, using the Cerebras API for responses.
@@ -118,3 +119,4 @@ Usage notes:
 5. Load samples with `dataset_loader.SimpleDatasetLoader(manifest_csv='data/training/sample/manifest.csv')`.
 
 If you'd like, I can add tests for the generator/validator, or attempt an automated font download (requires network access and license confirmation).
+=======
